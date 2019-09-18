@@ -16,9 +16,10 @@ Complete the following tasks:
 
 ## List of documents
 
+  * [Lorem ipsum](./lipsum.md)
   * [The duck](./duck.md)
-
 
 ## Contributors
 
   * Enrico
+  * José
